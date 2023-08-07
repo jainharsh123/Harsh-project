@@ -25,3 +25,40 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ <mat-card class="example-card">
+      <mat-card-header>
+        <mat-card-title-group>
+          <mat-card-title>Electritian</mat-card-title>
+          <mat-card-subtitle>Rahul Rana</mat-card-subtitle>
+          <img mat-card-md-image src="https://material.angular.io/assets/img/examples/shiba2.jpg"  alt="Image of a Shiba Inu">
+        </mat-card-title-group>
+      </mat-card-header>
+      <mat-card-content>
+        {{longText}}
+      </mat-card-content>
+    </mat-card>
+
+    <mat-card class="example-card">
+      <mat-card-header>
+        <mat-card-title-group>
+          <mat-card-title>Electritian</mat-card-title>
+          <mat-card-subtitle>Sagar Pache</mat-card-subtitle>
+          <img mat-card-md-image src="https://material.angular.io/assets/img/examples/shiba2.jpg"  alt="Image of a Shiba Inu">
+        </mat-card-title-group>
+      </mat-card-header>
+      <mat-card-content>
+        {{longText}}
+      </mat-card-content>
+    </mat-card>
+    <mat-card class="example-card">
+      <mat-card-header>
+        <mat-card-title-group>
+          <mat-card-title>Electritian</mat-card-title>
+          <mat-card-subtitle>Mahesh Kalihari</mat-card-subtitle>
+          <img mat-card-md-image src="https://material.angular.io/assets/img/examples/shiba2.jpg"  alt="Image of a Shiba Inu">
+        </mat-card-title-group>
+      </mat-card-header>
+      <mat-card-content>
+        {{longText}}
+      </mat-card-content>
+    </mat-card>

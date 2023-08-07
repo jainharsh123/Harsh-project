@@ -1,0 +1,18 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+.bg-black{
+  background-color: black;
+}
+
+::ng-deep{
+  .mat-mdc-card{
+      background-color: white!important;
+      height: 130px;
+    
+  }
+  .example-card{
+    margin-right: 10px;
+  }
+  
+}
